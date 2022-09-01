@@ -7,7 +7,7 @@ Cloudflare API 一键申请泛域名证书
  # 脚本代码
 
 ```bash
-bash <(curl -Ls https://goii.cc/acmeme)
+bash <(curl -Ls )
 ```
 
  # 相关文章及视频
