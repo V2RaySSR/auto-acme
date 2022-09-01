@@ -1,6 +1,6 @@
 # ACME脚本的一键命令 申请 ZeroSSL 的 SSL/TLS 证书
 
-![image](https://github.com/V2RaySSR/acme/raw/main/aoto-acme.png)
+![image](https://github.com/V2RaySSR/acme/raw/main/auto-acme.png)
 
  # 脚本代码
 
