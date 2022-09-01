@@ -1,6 +1,8 @@
 # ACME脚本的一键命令 申请 ZeroSSL 的 SSL/TLS 证书
 
-![image](https://github.com/V2RaySSR/acme/raw/main/auto%20-%20acme.png)
+Cloudflare API 一键申请泛域名证书
+
+![image](https://github.com/V2RaySSR/acme/raw/main/auto-acme.png)
 
  # 脚本代码
 
